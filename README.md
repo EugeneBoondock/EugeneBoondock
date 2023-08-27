@@ -1,6 +1,6 @@
 👋 Howdy, fellow earthlings! Welcome to the digital realm of EugeneBoondock, your friendly AI enthusiast! 🤖🚀
 
-![EugeneBoondock Banner](./avatar.png)
+![EugeneBoondock Banner](./avarar.png)
 
 ### Who's EugeneBoondock?
 
