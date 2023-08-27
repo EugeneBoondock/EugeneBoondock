@@ -24,7 +24,7 @@ Hey there, I'm Eugene, your guide through the intricate landscapes of Artificial
 
 🌐 **Boondocks Guild Website:** Crafting an immersive web experience with HTML/CSS for my Earth2 Guild. Because why should wizards have all the fun?
 
-📚 **INK:** A way to prompt GPT-3.5 or GPT-4 to write you CVs, manuscripts etc, and you can choose thr file format yiu want it to be saved in; from pdfs, docs, excel to PowerPoint files.
+📚 **INK:** A way to prompt GPT-3.5 or GPT-4 to write you CVs, manuscripts etc, and you can choose the file format you want it to be saved in; from pdfs, docs, excel to PowerPoint files.
 
 ### 🌟 Join the AI Adventure!
 
