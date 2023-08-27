@@ -1,10 +1,10 @@
-👋 Howdy, fellow earthlings! Welcome to the digital realm of EugeneBoondock, your friendly AI enthusiast! 🤖🚀
+👋 Howdy, fellow earthlings! Welcome to the digital realm of Eugene Boondock, your friendly AI enthusiast! 🤖🚀
 
 ![EugeneBoondock Banner](./avarar.png)
 
 ### Who's EugeneBoondock?
 
-Hey there, I'm EugeneBoondock, your guide through the intricate landscapes of Artificial Intelligence. I've got a knack for languages—both human and machine! 💬🧠 From C to Python, SQL to HTML/CSS, I've got a bag of tricks to weave magic in the digital world.
+Hey there, I'm Eugene, your guide through the intricate landscapes of Artificial Intelligence. I've got a knack for languages—both human and machine! 💬🧠 From C to Python, SQL to HTML/CSS, I've got a bag of tricks to weave magic in the digital world.
 
 ### Current Missions 🚀
 
@@ -12,7 +12,7 @@ Hey there, I'm EugeneBoondock, your guide through the intricate landscapes of Ar
 
 ### Where to Find Me 🌍
 
-🕊️ Flutter over to my Twitter nest: [EugeneBoondock](https://twitter.com/MansaKirito), where I tweet about AI, code, and occasionally, Earth2 escapades.
+🕊️ Flutter over to my Twitter nest: [Eugene Boondock](https://twitter.com/MansaKirito), where I tweet about AI, code, and occasionally, Earth2 escapades.
 
 🎮 Catch me in the matrix on Discord: eugeneboondock. Let's chat about algorithms, AI ethics, AI alignment, or maybe even our favorite space-time theories.
 
