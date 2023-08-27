@@ -1,6 +1,6 @@
 👋 Howdy, fellow earthlings! Welcome to the digital realm of EugeneBoondock, your friendly AI enthusiast! 🤖🚀
 
-![EugeneBoondock Banner](https://readyplayer.me/gallery/63b5ad4c0a8314c55919785e)
+![EugeneBoondock Banner](./avatar.png)
 
 ### Who's EugeneBoondock?
 
@@ -12,7 +12,7 @@ Hey there, I'm EugeneBoondock, your guide through the intricate landscapes of Ar
 
 ### Where to Find Me 🌍
 
-🕊️ Flutter over to my Twitter nest: [MansaKirito](https://twitter.com/MansaKirito), where I tweet about AI, code, and occasionally, Earth2 escapades.
+🕊️ Flutter over to my Twitter nest: [EugeneBoondock](https://twitter.com/MansaKirito), where I tweet about AI, code, and occasionally, Earth2 escapades.
 
 🎮 Catch me in the matrix on Discord: eugeneboondock. Let's chat about algorithms, AI ethics, AI alignment, or maybe even our favorite space-time theories.
 
