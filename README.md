@@ -1,33 +1,45 @@
-👋 Howdy, fellow earthlings! Welcome to the digital realm of Eugene Boondock, your friendly AI enthusiast! 🤖🚀
+# 👋 Welcome
 
-![EugeneBoondock Banner](./avarar.png)
+Hey, I’m Eugene Boondock.
+I build, I experiment, I think a lot about AI—and sometimes I get lost in virtual worlds like Earth2. This space is where I share the things I'm working on, learning, or just exploring out of curiosity.
 
-### Who's EugeneBoondock?
+---
 
-Hey there, I'm Eugene, your guide through the intricate landscapes of Artificial Intelligence. I've got a knack for languages—both human and machine! 💬🧠 From C to Python, SQL to HTML/CSS, I've got a bag of tricks to weave magic in the digital world.
+### 🧠 About Me
 
-### Current Missions 🚀
+I'm a web developer and AI enthusiast with a background in Politics & International Relations. I taught myself to code through projects, persistence, and a genuine love for trying to figure things out. I like clean logic, efficient code, and anything that sits at the intersection of humans and machines. 
 
-🌱 Currently, I'm on a mission to conquer JavaScript, sharpening my web sorcery skills. And guess what? I'm diving into the realms of SQL for Python, mastering the art of taming databases with MySQLdb and SQLalchemy.
+I have built numerous websites like [**Earthie**](https://earthie.world) - A dynamic Community Wiki platform for the Earth2 Community (with over 17 APIs being used)
+And also: [**3rdIslandTours**](https://3rdislandtours.com/) - Website for a tour company
 
-### Where to Find Me 🌍
+Languages and tools I’ve worked with:
+`HTML` • `CSS` • `JavaScript`: `[React, Nextjs, Nodejs]` • `Python` • `SQL` •
 
-🕊️ Flutter over to my Twitter nest: [Eugene Boondock](https://twitter.com/MansaKirito), where I tweet about AI, code, and occasionally, Earth2 escapades.
+---
 
-🎮 Catch me in the matrix on Discord: eugeneboondock. Let's chat about algorithms, AI ethics, AI alignment, or maybe even our favorite space-time theories.
+### ⚙️ Projects
 
-🌌 Speaking of which, have you heard about Earth2? Yep, I'm staking out my virtual territory there too! [Check out my Earth2 profile](https://app.earth2.io/#profile/8d887d79-5fd5-49ed-a14d-32f09d32d180/properties) and let's trade tiles in the metaverse.
+**Earthie.world**
+A feature-rich companion platform designed to enhance and immerse Earth2 users by offering a suite of tools. analytics and community features.
+It has a social media platform within it (My Lobbyist).
 
-### 🛠️ Current Projects and Repos
+**3rd Island Tours**
+A simple but detailed multi-page Company website, made using html, css and javascript; no frameworks.
 
-🧠 **AthenaSync:** Ahem, yeah it's an API call to GPT-4 lol, experimenting with prompts to yield responses influenced by old philosophers.
+---
 
-🌐 **Boondocks Guild Website:** Crafting an immersive web experience with HTML/CSS for my Earth2 Guild. Because why should wizards have all the fun?
+### 🌍 Where I Hang Out
 
-📚 **INK:** A way to prompt GPT-3.5 or GPT-4 to write you CVs, manuscripts etc, and you can choose the file format you want it to be saved in; from pdfs, docs, excel to PowerPoint files.
+* 🐦 [**Twitter**](https://twitter.com/eugeneboondock) — Thoughts on AI, dev life, virtual land, and tech musings.
+* 💬 **Discord** — `eugeneboondock` — AI alignment, ethics, coding rants, or metaverse convos.
+* 🧱 [**Earth2**](https://app.earth2.io/#profile/8d887d79-5fd5-49ed-a14d-32f09d32d180/properties) — Buying land, trading tiles, and keeping one foot in the future.
 
-### 🌟 Join the AI Adventure!
+---
 
-Dive into the world of code, algorithms, and virtual landscapes with me. Whether you're a seasoned coder, a budding AI enthusiast, or just curious about the digital unknown, there's always room in my spaceship for one more! 🚀👾
+### 🚀 Let’s Build
 
-Let's make the digital realm a bit more human together. Remember, even in lines of code, there's a spark of magic! ✨🔮
+I'm always learning, always building—whether it's a tool, a new idea, or a philosophy I can code into something useful. If you're curious about AI, coding, virtual economies, or just want to think aloud about the future, you're in good company here.
+
+
+---
+
