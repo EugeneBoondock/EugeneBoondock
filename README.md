@@ -13,6 +13,7 @@ I'm a web developer and AI enthusiast with a background in Politics & Internatio
 I’ve built websites like:  
 🔹 [**Earthie**](https://earthie.world) - A dynamic community wiki platform for Earth2 (using 17+ APIs)  
 🔹 [**3rdIslandTours**](https://3rdislandtours.com/) - Website for a tour company
+🔹 [**Entropy Suite**](https://entropysuite.co.za) - Suite of Useful Tools
 
 Languages and tools I’ve worked with:  
 `HTML` • `CSS` • `JavaScript`: `[React, Nextjs, Nodejs]` • `Python` • `SQL`
@@ -40,7 +41,7 @@ Languages and tools I’ve worked with:
 | 📌 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
 |------------|---------|----------|-----------|------------------|
 | [Earthie Platform](https://github.com/EugeneBoondock/earthie-chatbot) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earthie-chatbot) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earthie-chatbot) |
-| [UniFriend](https://github.com/EugeneBoondock/unifriend) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/unifriend?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/unifriend?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/unifriend) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/unifriend) |
+| [Entropy Suite](https://github.com/EugeneBoondock/Entropy-Suite) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Entropy-Suite) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Entropy-Suite) |
 
 ---
 
