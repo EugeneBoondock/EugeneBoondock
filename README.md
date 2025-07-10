@@ -40,7 +40,7 @@ Languages and tools I’ve worked with:
 
 | 📌 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
 |------------|---------|----------|-----------|------------------|
-| [Earthie Platform](https://github.com/EugeneBoondock/earthie-chatbot) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earthie-chatbot) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earthie-chatbot) |
+| [Earthie Platform](https://www.earthie.world) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earthie-chatbot) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earthie-chatbot) |
 | [Entropy Suite](https://github.com/EugeneBoondock/Entropy-Suite) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Entropy-Suite) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Entropy-Suite) |
 
 ---
