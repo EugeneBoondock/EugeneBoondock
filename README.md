@@ -2,7 +2,7 @@
 
 Hey, I’m Eugene Boondock.  
 I build, I experiment, I think a lot about AI and sometimes I get lost in virtual worlds like Earth2. This space is where I share the things I'm working on, learning, or just exploring out of curiosity.  
-Currently working on [**UniFriend**](https://github.com/EugeneBoondock/unifriend) - Platform for students
+Currently working on [**Earthie**](https://github.com/EugeneBoondock/Earthie-Platform) - Platform for students
 
 ---
 
@@ -40,7 +40,7 @@ Languages and tools I’ve worked with:
 
 | 📌 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
 |------------|---------|----------|-----------|------------------|
-| [Earthie Platform](https://www.earthie.world) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earthie-chatbot?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earthie-chatbot) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earthie-chatbot) |
+| [Earthie Platform](https://www.earthie.world) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Earthie-Platform?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Earthie-Platform?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Earthie-Platform) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Earthie-Platform) |
 | [Entropy Suite](https://github.com/EugeneBoondock/Entropy-Suite) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Entropy-Suite) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Entropy-Suite) |
 
 ---
