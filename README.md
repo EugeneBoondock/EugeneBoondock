@@ -2,7 +2,7 @@
 
 Hey, I’m Eugene Boondock.  
 I build, I experiment, I think a lot about AI and sometimes I get lost in virtual worlds like Earth2. This space is where I share the things I'm working on, learning, or just exploring out of curiosity.  
-Currently working on [**Earthie**](https://github.com/EugeneBoondock/Earthie-Platform) - Platform for students
+Currently working on [**Earthie**](https://github.com/EugeneBoondock/Earthie-Platform) - Platform for Earth2 Users
 
 ---
 
