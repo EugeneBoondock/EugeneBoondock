@@ -15,6 +15,9 @@ I’ve built websites like:
 🔹 [**3rdIslandTours**](https://3rdislandtours.com/) - Website for a tour company
 🔹 [**Entropy Suite**](https://entropysuite.co.za) - Suite of Useful Tools
 
+And tools like:
+🔹 [**Earth2 API Wrapper**](https://github.com/EugeneBoondock/earth2_api_wrapper) - An Earth2 API Wrapper
+
 Languages and tools I’ve worked with:  
 `HTML` • `CSS` • `JavaScript`: `[React, Nextjs, Nodejs]` • `Python` • `SQL`
 
@@ -41,6 +44,7 @@ Languages and tools I’ve worked with:
 | 📌 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
 |------------|---------|----------|-----------|------------------|
 | [Earthie Platform](https://www.earthie.world) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Earthie-Platform?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Earthie-Platform?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Earthie-Platform) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Earthie-Platform) |
+| [Earth2 API Wrapper](https://github.com/EugeneBoondock/earth2_api_wrapper) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earth2-api-wrapper?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earth2-api-wrapper?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earth2-api-wrapper) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earth2-api-wrapper) | 
 | [Entropy Suite](https://github.com/EugeneBoondock/Entropy-Suite) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Entropy-Suite) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Entropy-Suite) |
 
 ---
