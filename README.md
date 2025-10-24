@@ -12,7 +12,9 @@ I'm a web developer and AI enthusiast with a background in Politics & Internatio
 
 I’ve built websites like:  
 🔹 [**Earthie**](https://earthie.world) - A dynamic community wiki platform for Earth2 (using 17+ APIs)  
+
 🔹 [**3rdIslandTours**](https://3rdislandtours.com/) - Website for a tour company
+
 🔹 [**Morphed**](https://morphed.io) - Platform for HubSpot Partners
 
 🔹 [**Philosophistication**](https://philosophistication.co.za) - My poerty catalogue
