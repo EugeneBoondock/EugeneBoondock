@@ -24,6 +24,7 @@ I’ve built websites like:
 🔹 [**Entropy Suite**](https://entropysuite.co.za) - Suite of Useful Tools
 
 And npm packages like:
+
 🔹 [**Earth2 API Wrapper**](https://github.com/EugeneBoondock/earth2_api_wrapper) - An Earth2 API Wrapper
 
 🔹 [**Earth2 MCP Server**](https://www.npmjs.com/package/earth2-mcp-server) - An Earth2 MCP Server
