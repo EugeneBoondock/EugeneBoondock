@@ -33,6 +33,8 @@ I’m strongest where product thinking meets engineering execution: taking an id
 | [Morphed](https://morphed.io) | Platform for HubSpot partners, audit workflows, client portals, and AI-driven reporting | Full-stack SaaS, HubSpot data, MCP, dashboards, automation |
 | [Platedom](https://platedom.com) | Generative food-tech platform for menus, recipe ideas, restaurant assets, and visual outputs | AI generation, image workflows, food data, SaaS |
 | [Earthie](https://earthie.world) | Community platform for Earth2 users with tracking, automation, and API-backed tools | Community software, API work, tracking systems, MCP |
+| [KinSpace](https://kinspace.co.za) | Product in progress for people managing chronic illness, care notes, and personal health context | Health-tech product design, user flows, data structure |
+| [3rdIslandTours](https://3rdislandtours.com/) | Website for a tour company with clear service pages and booking paths | Business website, responsive UI, local SEO |
 | [Entropy Suite](https://entropysuite.co.za) | A collection of small, useful web tools | Utility apps, web tools, fast shipping |
 | [Philosophistication](https://philosophistication.co.za) | Poetry and writing catalogue | Publishing, personal archive, content structure |
 
