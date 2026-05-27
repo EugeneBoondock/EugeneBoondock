@@ -1,77 +1,91 @@
-# 👋 Welcome
+# Eugene Boondock
 
-Hey, I’m Eugene Boondock.  
-I build, I experiment, I think a lot about AI and sometimes I get lost in virtual worlds like Earth2. This space is where I share the things I'm working on, learning, or just exploring out of curiosity.  
-Currently working on [**Earthie**](https://github.com/EugeneBoondock/Earthie-Platform) - Platform for Earth2 Users
+Full-stack developer building AI products, automation systems, and practical web tools from Johannesburg, South Africa.
 
----
-
-### 🧠 About Me
-
-I'm a web developer and AI enthusiast with a background in Politics & International Relations. I taught myself to code through projects, persistence, and a genuine love for trying to figure things out. I like clean logic, efficient code, and anything that sits at the intersection of humans and machines.  
-
-I’ve built websites like:  
-🔹 [**Earthie**](https://earthie.world) - A dynamic community wiki platform for Earth2 (using 17+ APIs)  
-
-🔹 [**3rdIslandTours**](https://3rdislandtours.com/) - Website for a tour company
-
-🔹 [**Morphed**](https://morphed.io) - Platform for HubSpot Partners
-
-🔹 [**Philosophistication**](https://philosophistication.co.za) - My poerty catalogue
-
-🔹 [**KinSpace**](https://kinspace.co.za) - (WIP) Platform for users with chronic illnesses
-
-🔹 [**Entropy Suite**](https://entropysuite.co.za) - Suite of Useful Tools
-
-And npm packages like:
-
-🔹 [**Earth2 API Wrapper**](https://github.com/EugeneBoondock/earth2_api_wrapper) - An Earth2 API Wrapper
-
-🔹 [**Earth2 MCP Server**](https://www.npmjs.com/package/earth2-mcp-server) - An Earth2 MCP Server
-
-🔹 [**Morphed MCP Server**](https://www.npmjs.com/package/morphed-mcp-server) - A Morphed intelligence MCP Server
-
-🔹 [**Hubspot MCP Server**](https://www.npmjs.com/package/hubspot-mcp-server) - A HubSpot MCP Server
-
-Languages and tools I’ve worked with:  
-`HTML` • `CSS` • `JavaScript`: `[React, Nextjs, Nodejs]` • `Python` • `SQL`
+[![Portfolio](https://img.shields.io/badge/Portfolio-boondocklabs.co.za-111111?style=flat-square)](https://boondocklabs.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20Boondock-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eboondock)
+[![npm](https://img.shields.io/badge/npm-eugeneboondock-CB3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/~eugeneboondock)
+[![GitHub](https://img.shields.io/badge/GitHub-EugeneBoondock-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EugeneBoondock)
 
 ---
 
-### 🧰 Things I Code With
+## About
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+I design and ship production-grade software with a focus on AI workflows, automation, CRM data flows, dashboards, APIs, and developer tooling. My work is built around real business problems: faster internal tools, cleaner data movement, better user journeys, and systems that can grow without becoming painful to maintain.
+
+I’m strongest where product thinking meets engineering execution: taking an idea, shaping the system, writing the code, deploying it, and improving it through real usage.
 
 ---
 
-### 📦 Open Source Projects
+## Current Focus
 
-| 📌 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
-|------------|---------|----------|-----------|------------------|
+- AI assistants for structured business workflows
+- MCP servers for CRM, audit, customer portal, and platform tasks
+- SaaS products for restaurants, agencies, communities, and internal teams
+- Clean full-stack builds using React, Node.js, Python, Supabase, Cloudflare, Vercel, Render, and AWS
+
+---
+
+## Featured Work
+
+| Project | What it does | Stack and focus |
+| --- | --- | --- |
+| [Morphed](https://morphed.io) | Platform for HubSpot partners, audit workflows, client portals, and AI-driven reporting | Full-stack SaaS, HubSpot data, MCP, dashboards, automation |
+| [Centralbrain](https://centralbrain.io) | Company brain layer for teams that need safer AI agents and structured internal knowledge | AI agents, workflows, knowledge systems, SFW agent tooling |
+| [Platedom](https://platedom.com) | Generative food-tech platform for menus, recipe ideas, restaurant assets, and visual outputs | AI generation, image workflows, food data, SaaS |
+| [Earthie](https://earthie.world) | Community platform for Earth2 users with tracking, automation, and API-backed tools | Community software, API work, tracking systems, MCP |
+| [Entropy Suite](https://entropysuite.co.za) | A collection of small, useful web tools | Utility apps, web tools, fast shipping |
+| [Philosophistication](https://philosophistication.co.za) | Poetry and writing catalogue | Publishing, personal archive, content structure |
+
+---
+
+## Packages
+
+| Package | Description |
+| --- | --- |
+| [Earth2 API Wrapper](https://github.com/EugeneBoondock/earth2_api_wrapper) | JavaScript wrapper for working with Earth2 data |
+| [Earth2 MCP Server](https://www.npmjs.com/package/earth2-mcp-server) | MCP server for Earth2 workflows |
+| [Morphed MCP Server](https://www.npmjs.com/package/morphed-mcp-server) | MCP server for Morphed workflows |
+| [HubSpot MCP Server](https://www.npmjs.com/package/hubspot-mcp-server) | MCP server for HubSpot data access |
+
+---
+
+## Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111111)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Open Source Snapshot
+
+| Project | Stars | Forks | Issues | Pull Requests |
+| --- | --- | --- | --- | --- |
 | [Earthie Platform](https://github.com/EugeneBoondock/Earthie-Platform) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Earthie-Platform?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Earthie-Platform?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Earthie-Platform) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Earthie-Platform) |
-| [Earth2 API Wrapper](https://github.com/EugeneBoondock/earth2_api_wrapper) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earth2_api_wrapper?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earth2_api_wrapper?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earth2_api_wrapper) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earth2_api_wrapper) | 
+| [Earth2 API Wrapper](https://github.com/EugeneBoondock/earth2_api_wrapper) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/earth2_api_wrapper?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/earth2_api_wrapper?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/earth2_api_wrapper) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/earth2_api_wrapper) |
 | [Entropy Suite](https://github.com/EugeneBoondock/Entropy-Suite) | ![GitHub stars](https://img.shields.io/github/stars/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub forks](https://img.shields.io/github/forks/EugeneBoondock/Entropy-Suite?style=social) | ![GitHub issues](https://img.shields.io/github/issues/EugeneBoondock/Entropy-Suite) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/EugeneBoondock/Entropy-Suite) |
 
 ---
 
-### 🌍 Where I Hang Out
+## Contact
 
-* 🐦 [**Twitter**](https://twitter.com/eugeneboondock) - Thoughts on AI, dev life, virtual land, and tech musings.  
-* 💬 **Discord** - `eugeneboondock` - AI alignment, ethics, coding rants, or metaverse convos.  
-* 🧱 [**Earth2**](https://app.earth2.io/#profile/8d887d79-5fd5-49ed-a14d-32f09d32d180/properties) - Buying land, trading tiles, and keeping one foot in the future.
+- Website: [boondocklabs.co.za](https://boondocklabs.co.za)
+- LinkedIn: [linkedin.com/in/eboondock](https://linkedin.com/in/eboondock)
+- npm: [npmjs.com/~eugeneboondock](https://npmjs.com/~eugeneboondock)
+- Discord: `eugeneboondock`
 
 ---
 
-### 🚀 Let’s Build
-
-I'm always learning, always building—whether it's a tool, a new idea, or a philosophy I can code into something useful. If you're curious about AI, coding, virtual economies, or just want to think aloud about the future, you're in good company here.
+Building useful systems, shipping fast, and keeping the codebase clean enough to survive the next idea.
