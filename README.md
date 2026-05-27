@@ -31,7 +31,6 @@ I’m strongest where product thinking meets engineering execution: taking an id
 | Project | What it does | Stack and focus |
 | --- | --- | --- |
 | [Morphed](https://morphed.io) | Platform for HubSpot partners, audit workflows, client portals, and AI-driven reporting | Full-stack SaaS, HubSpot data, MCP, dashboards, automation |
-| [Centralbrain](https://centralbrain.io) | Company brain layer for teams that need safer AI agents and structured internal knowledge | AI agents, workflows, knowledge systems, SFW agent tooling |
 | [Platedom](https://platedom.com) | Generative food-tech platform for menus, recipe ideas, restaurant assets, and visual outputs | AI generation, image workflows, food data, SaaS |
 | [Earthie](https://earthie.world) | Community platform for Earth2 users with tracking, automation, and API-backed tools | Community software, API work, tracking systems, MCP |
 | [Entropy Suite](https://entropysuite.co.za) | A collection of small, useful web tools | Utility apps, web tools, fast shipping |
