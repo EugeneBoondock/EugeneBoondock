@@ -33,8 +33,8 @@ I’m strongest where product thinking meets engineering execution: taking an id
 | [Morphed](https://morphed.io) | Platform for HubSpot partners, audit workflows, client portals, and AI-driven reporting | Full-stack SaaS, HubSpot data, MCP, dashboards, automation |
 | [Centralbrain](https://centralbrain.io) | AI workspace for teams that need agent workflows, knowledge access, and safer business use | AI agents, workflow design, knowledge systems, agent tooling |
 | [Platedom](https://platedom.com) | Generative food-tech platform for menus, recipe ideas, restaurant assets, and visual outputs | AI generation, image workflows, food data, SaaS |
-| [Bikode](https://bikode.co.za) | Business website for a software and product studio | Web build, brand presence, responsive UI |
-| [MessageCFO](https://messagecfo.com) | Website for a finance-focused product and service offering | Landing page, service pages, contact flow |
+| [Bikode](https://bikode.co.za) | AI IDE for building, editing, and shipping code with agent-assisted development | AI coding, developer tools, IDE workflows |
+| [MessageCFO](https://messagecfo.com) | AI financial assistant for business and personal finance | Finance AI, money workflows, assistant UX |
 | [Saving with Dana](https://savingwithdana.com) | Personal finance website for savings content and audience growth | Content site, responsive UI, publishing flow |
 | [Earthie](https://earthie.world) | Community platform for Earth2 users with tracking, automation, and API-backed tools | Community software, API work, tracking systems, MCP |
 | [KinSpace](https://kinspace.co.za) | Product in progress for people managing chronic illness, care notes, and personal health context | Health-tech product design, user flows, data structure |
